@@ -1,0 +1,63 @@
+.sub_container{
+    padding: 20px 40px;
+}
+.ps__rail-x{
+    display: none !important;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.red_star{
+    color: red !important;
+}
+.table  .trow td{
+    font-size: 14px;
+    padding-left: 22px;
+}
+
+.set_mar_top{
+    margin-top: 40px;
+}
+.searchbox{
+    margin-top: 20px;
+}
+.right-box{
+    margin-left: 40px;
+}
+.right-box .card-body{
+    padding: 20px 0;
+}
+
+.stay-pad .card-body{
+    padding: 20px;
+}
+
+.alert{
+    color: #fff;
+}
+
+.imgbox img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.make_space{
+    margin-top: 40px;
+}
+
+.cons_image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.page_splitter{
+    margin: 70px 0 50px 0;
+}
+@media (max-width: 993px){
+    .right-box{
+        margin: 20px 0;
+    }
+}
